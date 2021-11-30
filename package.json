@@ -1,0 +1,23 @@
+{
+  "name": "yumenoumibrowsernovelplayer",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Yumenomimizuku/YumenoumiBrowserNovelPlayer.git"
+  },
+  "author": "yumenomimizuku",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Yumenomimizuku/YumenoumiBrowserNovelPlayer/issues"
+  },
+  "homepage": "https://github.com/Yumenomimizuku/YumenoumiBrowserNovelPlayer#readme",
+  "dependencies": {
+    "@esotericsoftware/spine-core": "^4.1.4",
+    "@esotericsoftware/spine-webgl": "^4.1.4"
+  }
+}
